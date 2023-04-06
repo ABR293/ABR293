@@ -33,7 +33,3 @@ CSS/SCSS/SASS/LESS,
 MaterialUI, AntDesign, Styled-components,
 
 Mongoose, MongoDB,
-
-Git
-
-Postman
