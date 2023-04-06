@@ -9,17 +9,31 @@
 
 React.js(hooks/class components)
 JavaScript(ES6+)
+
 TypeScript,
+
 Next.js
+
 Redux
+
 Redux-Toolkit
+
 Redux-Thunk, Redux-Saga,
-eslint, prettier
-Jest, react-testing-library
+
+eslint, prettier,
+
+Jest, react-testing-library,
+
 NodeJS, Express,
-HTML
-CSS/SCSS/SASS/LESS
-MaterialUI, AntDesign, Styled-components
+
+HTML/HTML5,
+
+CSS/SCSS/SASS/LESS,
+
+MaterialUI, AntDesign, Styled-components,
+
 Mongoose, MongoDB,
+
 Git
+
 Postman
